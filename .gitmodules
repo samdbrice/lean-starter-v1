@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/sbrice/typescript-starter.git
+[submodule "client"]
+	path = client
+	url = https://github.com/sbrice/angular-starter.git
